@@ -1,20 +1,4 @@
-name: SGilfedder Portfolio
-favicon: null
-layout_spectrum: 1
 typography_spectrum: 0.66532
-title: Stuart Gilfedder Portfolio
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#ffaa45'
@@ -26,4 +10,24 @@ color:
   lightness: 0.375
   saturation: 0.375
   rhythmicContrast: 0.25
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 1
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: SGilfedder Portfolio
+cta:
+  domain: null
+  bucket: null
+  version: null
+navigation:
+  - name: Corporate Events
+    id: 6520d082-007f-46e6-8df0-5eb7069e8122
+    type: content
+favicon: null
+title: Stuart Gilfedder Portfolio
 purpose: []
