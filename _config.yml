@@ -19,7 +19,10 @@ analytics:
   google: null
   facebook: null
   twitter: null
-name: SGilfedder Portfolio
+author:
+  name: Stuart Gilfedder
+  email: sgilfedder@me.com
+name: Stuart tGilfedder Portfolio
 cta:
   domain: null
   bucket: null
@@ -29,6 +32,6 @@ navigation:
     id: 6520d082-007f-46e6-8df0-5eb7069e8122
     type: content
 favicon: null
-title: Stuart Gilfedder Portfolio
+title: SGilfedder Portfolio
 description: inspiration through creation
 purpose: []
