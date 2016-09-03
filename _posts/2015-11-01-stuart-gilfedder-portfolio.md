@@ -1,22 +1,23 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
-starred: true
 keywords: []
-description: Introduction
-datePublished: '2015-11-01T22:32:50.228Z'
-dateModified: '2015-11-01T22:32:45.306Z'
-title: Corporate Events
+description: ''
+datePublished: '2016-08-31T17:03:11.487Z'
+dateModified: '2016-08-31T17:03:10.768Z'
+title: ''
 sourcePath: _posts/2015-11-01-stuart-gilfedder-portfolio.md
-published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
+author: []
+via: {}
+starred: true
 url: stuart-gilfedder-portfolio/index.html
 _type: Article
 
